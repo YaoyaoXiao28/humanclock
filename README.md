@@ -29,5 +29,4 @@ By systematically analyzing the probabilities of Hopf and SNIC bifurcations:
 Hopf bifurcation: The probability was positively correlated with the number of parameters.
 SNIC bifurcation: The likelihood of SNIC bifurcation exist small occurence.
 These findings suggest that Hopf bifurcation is the predominant mechanism in the detailed model (Figure 4B).
-![image](https://github.com/user-attachments/assets/fc01c27f-3b77-4a03-9d61-253fca34b471)
 
